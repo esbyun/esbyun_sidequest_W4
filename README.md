@@ -39,4 +39,6 @@ N/A
 
 The code was written by Dr. Karen Cochrane and David Han but they used GenAI to write the comments.
 
+Code was edited by Ellis Byun for Side quest week 4 with the help of GenAI to understand how the existing code handled multiple levels and to identify why the level-switching key was not working.
+
 ---
